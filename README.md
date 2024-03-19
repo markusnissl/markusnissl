@@ -2,7 +2,9 @@
 
 ## 👨🏻‍💻  Me
 - 🌍 I live in Vienna/Austria.
-- 🎓 I am a PhD student researching on Knowledge Graphs.  
+- 🎓 I am a researching on Knowledge Graphs, LLMs and blockchains
+- ⚡ I am one of the founders of data-insights.ai, tackling the challenge of managing hallucinations in AI systems
+- 💬 I love to exchange ideas, ping me to discuss cool topics and opportunities.
 
 ## 🛠 Tech Stack
 
