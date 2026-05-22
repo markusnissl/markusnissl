@@ -1,42 +1,55 @@
-# Hi 👋, I'm Markus Nissl!
+# Markus Nissl
 
-## 👨🏻‍💻  Me
-- 🌍 I live in Vienna/Austria.
-- 🎓 I am a researching on Knowledge Graphs, LLMs and blockchains
-- ⚡ I am one of the founders of data-insights.ai, tackling the challenge of managing hallucinations in AI systems
-- 💬 I love to exchange ideas, ping me to discuss cool topics and opportunities.
+Software engineer, researcher, and founder based in Vienna, Austria. I
+build AI systems that have to be trustworthy in production — not just
+plausible in a demo.
 
-## 🛠 Tech Stack
+## What I'm doing
 
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5&style=flat-square)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&style=flat-square)
-![TailwindCss](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind%20CSS&style=flat-square)
-![React](https://img.shields.io/badge/-React-000?&logo=React&style=flat-square)
-![Vue.js](https://img.shields.io/badge/-Vue-000?&logo=vue.js&style=flat-square)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=TypeScript&style=flat-square)
-![Eslint](https://img.shields.io/badge/-Eslint-000?&logo=Eslint&style=flat-square)
-![Prettier](https://img.shields.io/badge/-Prettier-000?&logo=Prettier&style=flat-square)
-![Php](https://img.shields.io/badge/-PHP-000?&logo=PHP&style=flat-square)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&style=flat-square)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&style=flat-square)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-000?&logo=SpringBoot&style=flat-square)
-![Nestjs](https://img.shields.io/badge/-Nestjs-000?&logo=Nestjs&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python&style=flat-square)
-![Graphql](https://img.shields.io/badge/-Graphql-000?&logo=Graphql&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=FFFFFF&style=flat-square)
-![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=Apache%20Kafka&style=flat-square)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=RabbitMQ&style=flat-square)
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&style=flat-square)
-![NGINX](https://img.shields.io/badge/-NGINX-000?&logo=NGINX&style=flat-square)
-![NX](https://img.shields.io/badge/-NX-000?&logo=NX&style=flat-square)
-![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache&style=flat-square)
+- 🧱 **Co-founder & CEO of [datAInsights](https://data-insights.ai)** —
+  We build *provable AI* for regulated decisions. Every answer is
+  grounded in a temporal knowledge graph, with cited sources and
+  traceable reasoning. EU-hosted, EU AI Act-ready, deployable across
+  government, finance, pharma, legal, energy, and cybersecurity.
 
-## 🤝🏻 Connect with me
+- 🧠 **Founder of [Markus Nissl Consulting](https://www.markusnissl.com/en/)** —
+  AI strategy and system architecture for teams turning AI ambitions
+  into shipped systems. Computer vision, time-series forecasting,
+  production optimization, MLOps. A decade-plus of software engineering
+  across industries.
+
+## Public speaking
+
+I enjoy giving talks — usually about the gap between AI demos and
+production systems, occasionally about Angular and design systems.
+
+- 🎤 **Budapest Data+AI Forum, 2026** — AI-Driven Interfaces: Designing the New Grammar of Interaction
+- 🎤 **JS Poland, 2024** — "Hansel and Gretel's AI Journey: Finding a Path Through the Code Forest"
+- 🎤 **ng-India, 2024** — An Insight into Modern Design Systems with Angular
+- 🎤 **Angular Wrocław #36, 2023** — An Insight into Modern Design Systems with Angular
+- 🎤 **[Angular Vienna Meetup, November 2022](https://www.youtube.com/watch?v=2kRUCVEZC_4)** — Different ways of deploying your Angular app
+- 🎤 **[SAINT, 2023]([https://www.youtube.com/watch?v=TMHNhoVQGPk](https://www.youtube.com/watch?v=bXOpYKx_0fo))** — AI in Action - Die Verwendung von Knowledge Graphen u. anderen AI-Methoden in Anwendungen
+- 🎤 **WeAreDevelopers World Congress 2022** - 5 ways to optimize cloud costs
+
+## Background
+
+PhD from TU Wien (2023), conferred *sub auspiciis Praesidentis* —
+Austria's highest academic honour. Earlier won the *Würdigungspreis*
+for one of Austria's outstanding master's degrees.
+
+Doctoral work was on temporal reasoning in knowledge graphs. I still
+publish occasionally — recent topics include the Vadalog temporal
+reasoning system, smart-contract modeling with Datalog-based languages,
+and industrial experience reports on AI-assisted software development.
+
+📄 [Publications on dblp](https://dblp.org/pid/271/7712.html) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=xVvh-uUAAAAJ)
+
+## 🤝🏻 Talk to me
+
+Happy to trade ideas — knowledge graphs, temporal reasoning, making
+LLMs trustworthy in production, Go service architecture, or what good
+AI engineering practice looks like outside the hype cycle.
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisslmarkus/)
 [![Twitter](https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/markusnissl)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/markus.nissl/)
