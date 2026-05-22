@@ -18,6 +18,11 @@ plausible in a demo.
   production optimization, MLOps. A decade-plus of software engineering
   across industries.
 
+- 📖 **[*Agentic Engineering*](https://leanpub.com/agenticengineering)** —
+  Newly published on Leanpub. A field guide for engineers building
+  agentic and LLM-backed systems — focused on the gap between what
+  these systems generate and what survives production.
+
 ## Public speaking
 
 I enjoy giving talks — usually about the gap between AI demos and
